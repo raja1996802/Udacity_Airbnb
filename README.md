@@ -50,13 +50,17 @@ The dataset is downloaded using KaggleHub from Kaggle’s Airbnb Seattle dataset
 
 2.**Data Cleaning**:
 - Irrelevant columns with high missing data were dropped (e.g., license, square_feet).
+  
 - Missing values in essential columns (e.g., reviews_per_month) were filled with appropriate values.
+  
 - The price column was cleaned by removing special characters and converting it into a numeric format.
   
 3.**Exploratory Data Analysis (EDA)**:
 
 ***Price distribution***: Insights into how prices vary across listings.
+
 ***Correlation analysis***: Investigated the relationship between key listing features (e.g., room type, location) and price.
+
 ***Booking trends***: Analyzed seasonal demand patterns in Seattle.
 
 4.**Modelling**:
