@@ -74,6 +74,7 @@ The analysis highlights key factors for Airbnb hosts in Seattle to consider, suc
 **Example Visualizations**:
 
 1.**Price Distribution**
+
 2.**Correlation Heatmap**
 
 **File Descriptions**
